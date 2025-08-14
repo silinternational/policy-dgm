@@ -1,12 +1,4 @@
-# SIL Global Data Governance Policy
-
-**Version:** 0.1 **Effective Date:** [TBD] **Last Reviewed:** [TBD]
-
-## 1. Introduction
-
-This Data Governance Policy establishes the framework for managing data assets within [Organization Name], a medium-sized non-profit organization dedicated to [briefly describe mission, e.g., advancing community health and education]. Effective data governance ensures that our data is accurate, secure, accessible, and used ethically to support our mission, programs, and stakeholders.
-
-## 2. Purpose
+# 2. Purpose
 
 The purpose of this policy is to:
 
@@ -15,15 +7,15 @@ The purpose of this policy is to:
 - Facilitate decision-making on data-related matters.
 - Ensure data supports strategic goals while minimizing risks.
 
-## 3. Scope
+# 3. Scope
 
 This policy applies to all data collected, stored, processed, or shared by the organization, including donor information, program metrics, financial records, and operational data. It covers all employees, volunteers, contractors, and third-party partners handling organizational data.
 
-## 4. Data Governance Framework
+# 4. Data Governance Framework
 
-Data governance at [Organization Name] is overseen by a cross-functional Data Governance Council. This council is responsible for developing, implementing, and monitoring data policies, standards, and procedures.
+Data governance at SIL Global is overseen by a cross-functional Data Governance Council. This council is responsible for developing, implementing, and monitoring data policies, standards, and procedures.
 
-### 4.1 Data Governance Council Composition and Roles
+## Data Governance Council Composition and Roles
 
 The Data Governance Council consists of representatives from key departments to ensure diverse perspectives. Members are appointed by the executive leadership and serve for a term of two years, with the possibility of renewal. Brief descriptions of the roles are as follows:
 
@@ -34,22 +26,22 @@ The Data Governance Council consists of representatives from key departments to 
 - **IT Representative**: A technical expert who advises on data infrastructure, security tools, and integration needs to support governance efforts.
 - **Legal/Privacy Advisor**: Ensures data practices align with privacy laws and ethical standards, providing guidance on data sharing and consent.
 
-## 5. Meetings
+## Data Governance Council Meetings
 
 The Data Governance Council meets quarterly to review data governance activities, address emerging issues, and make decisions on policies and standards. Additional ad-hoc meetings may be scheduled as needed, such as in response to significant data incidents or project milestones. Agendas are distributed at least one week in advance, and minutes are recorded and shared with all members and relevant stakeholders.
 
-## 6. Data Standards and Definitions
+# Data Standards and Definitions
 
 The council establishes and maintains a data dictionary that defines key terms, metrics, and standards to ensure consistency across the organization. This includes guidelines for data classification, metadata management, and quality assurance processes.
 
-## 7. Conflict Resolution for Definitional Issues
+# Conflict Resolution for Definitional Issues
 
 Definitional conflicts, such as disagreements on data terms, classifications, or standards, are resolved through a structured process:
 When conflicts arise regarding data definitions, classifications, or standards, the following escalation process applies:
 
-**Step 1: Working Group Resolution** The Data Steward convenes a working group consisting of relevant stakeholders to discuss and attempt to resolve the conflict through collaborative dialogue. This group has 10 business days to reach consensus.
+**Step 1: Working Group Resolution** The Data Governance Lead convenes a working group consisting of relevant stakeholders to discuss and attempt to resolve the conflict through collaborative dialogue. This group has 10 business days to reach consensus.
 
-**Step 2: Council Mediation** If the working group cannot reach consensus, the issue is presented to the full Data Governance Council for discussion and voting. A simple majority vote resolves the conflict, with the Data Steward facilitating neutral discussion.
+**Step 2: Council Mediation** If the working group cannot reach consensus, the issue is presented to the full Data Governance Council for discussion and voting. A simple majority vote resolves the conflict, with the Data Governance Lead facilitating neutral discussion.
 
 **Step 3: Executive Decision** If the Council cannot reach consensus or if the conflict involves strategic implications, the Executive Director makes the final determination after considering all input and potential organizational impacts.
 
