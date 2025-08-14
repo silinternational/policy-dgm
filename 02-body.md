@@ -45,10 +45,13 @@ The council establishes and maintains a data dictionary that defines key terms, 
 ## 7. Conflict Resolution for Definitional Issues
 
 Definitional conflicts, such as disagreements on data terms, classifications, or standards, are resolved through a structured process:
+When conflicts arise regarding data definitions, classifications, or standards, the following escalation process applies:
 
-- **Initial Discussion**: Conflicts are first addressed during council meetings via open dialogue to seek consensus.
-- **Voting Mechanism**: If consensus cannot be reached, a majority vote among council members is conducted, with the Executive Sponsor holding a tie-breaking vote if necessary.
-- **Escalation**: Unresolved issues are escalated to the organization's executive leadership team for final arbitration, ensuring alignment with strategic priorities. All resolutions are documented in the data dictionary for future reference.
+**Step 1: Working Group Resolution** The Data Steward convenes a working group consisting of relevant stakeholders to discuss and attempt to resolve the conflict through collaborative dialogue. This group has 10 business days to reach consensus.
+
+**Step 2: Council Mediation** If the working group cannot reach consensus, the issue is presented to the full Data Governance Council for discussion and voting. A simple majority vote resolves the conflict, with the Data Steward facilitating neutral discussion.
+
+**Step 3: Executive Decision** If the Council cannot reach consensus or if the conflict involves strategic implications, the Executive Director makes the final determination after considering all input and potential organizational impacts.
 
 ---
 
