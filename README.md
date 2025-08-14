@@ -1,5 +1,5 @@
 # policy-dgm
-Data Governance Policy [DRAFT] Github [Repository](https://github.com/silinternational/policy-on-email-retention)
+Data Governance Policy [DRAFT] Github [Repository](https://github.com/silinternational/policy-dgm)
 
 ## Purpose
 
