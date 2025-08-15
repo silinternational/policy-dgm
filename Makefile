@@ -6,8 +6,8 @@ FILENAME = "data_governance_policy"
 .PHONY: $(FILENAME)-$(COMMIT_DATE).pdf all clean
 all: $(FILENAME)-$(COMMIT_DATE).pdf
 
-$(FILENAME)-$(COMMIT_DATE).tex: $(wildcard ??-*.md)
-	COMMIT_DATE=$(COMMIT_DATE) envsubst < 00-headers-toc.mdt > 00-headers-toc.md
+$(FILENAME)-$(COMMIT_DATE).tex: $(wildcard ???-*.md)
+	COMMIT_DATE=$(COMMIT_DATE) envsubst < 000-headers-toc.mdt > 000-headers-toc.md
 	pandoc -s $? -t latex -o $(FILENAME)-$(COMMIT_DATE).tex
 
 $(FILENAME)-$(COMMIT_DATE).pdf: $(FILENAME)-$(COMMIT_DATE).tex $(FILENAME)-$(COMMIT_DATE).xmpdata
